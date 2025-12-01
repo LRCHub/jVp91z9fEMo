@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "えれくとりっく・えんじぇぅ",
+  "base_artist": "ヤスオ、初音ミク",
+  "createdAt": "2025-12-01T15:00:27.276460Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "えれくとりっく・えんじぇぅ",
+      "artist": "Yasuo",
+      "has_synced": true,
+      "path": "select/01_えれくとりっく・えんじぇぅ_Yasuo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "えれくとりっく・えんじぇぅ(Vocarhythm ver.) feat.初音ミク",
+      "artist": "ヤスオ",
+      "has_synced": true,
+      "path": "select/02_えれくとりっく・えんじぇぅ(Vocarhythm_ver.)_feat.初音ミク_ヤスオ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "えれくとりっく・えんじぇぅ⁣ / Electric Angel",
+      "artist": "ヤスオ feat. 初音ミク⁣ / yasuoP feat. Hatsune Miku",
+      "has_synced": true,
+      "path": "select/03_えれくとりっく・えんじぇぅ⁣___Electric_Angel_ヤスオ_feat._初音ミク⁣___yasuoP_feat._Hatsune_Miku.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "えれくとりっく・えんじぇぅ",
+      "artist": "ななひら/れをる",
+      "has_synced": true,
+      "path": "select/04_えれくとりっく・えんじぇぅ_ななひら_れをる.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "えれくとりっく・えんじぇぅ -MIKUNOPOLIS in LOS ANGELES Live-",
+      "artist": "Yasuo",
+      "has_synced": false,
+      "path": "select/05_えれくとりっく・えんじぇぅ_-MIKUNOPOLIS_in_LOS_ANGELES_Live-_Yasuo.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "えれくとりっく・えんじぇぅ",
+      "artist": "ヤスオ",
+      "has_synced": true,
+      "path": "select/06_えれくとりっく・えんじぇぅ_ヤスオ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "えれくとりっく・えんじぇぅ -MIKUNOPOLIS in LOS ANGELES Live-",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/07_えれくとりっく・えんじぇぅ_-MIKUNOPOLIS_in_LOS_ANGELES_Live-_Various_Artists.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "えれくとりっく・えんじぇぅ (feat. 初音ミク)",
+      "artist": "ヤスオ",
+      "has_synced": false,
+      "path": "select/pl_01_えれくとりっく・えんじぇぅ_(feat._初音ミク)_ヤスオ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "えれくとりっく・えんじぇぅ feat.鏡音リン、鏡音レン",
+      "artist": "ヤスオ",
+      "has_synced": false,
+      "path": "select/pl_02_えれくとりっく・えんじぇぅ_feat.鏡音リン、鏡音レン_ヤスオ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "えれくとりっく・えんじぇぅ",
+      "artist": "ヤスオ",
+      "has_synced": false,
+      "path": "select/pl_03_えれくとりっく・えんじぇぅ_ヤスオ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "えれくとりっく・えんじぇぅ",
+      "artist": "ヤスオ",
+      "has_synced": false,
+      "path": "select/pl_04_えれくとりっく・えんじぇぅ_ヤスオ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "えれくとりっく・えんじぇぅ",
+      "artist": "ヤスオ",
+      "has_synced": false,
+      "path": "select/pl_05_えれくとりっく・えんじぇぅ_ヤスオ.txt"
+    }
+  ]
+}
